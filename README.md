@@ -1,6 +1,12 @@
 ## config文件夹里的index.js写了API跨域请求的代理
 # vuedemo
 
+## 实现功能:
+###上一首下一首切歌 暂停
+###搜索歌曲
+###歌单
+###歌词滚动
+
 > A Vue.js project
 
 ## Build Setup
