@@ -1,3 +1,4 @@
+## config文件夹里的index.js写了API跨域请求的代理
 # vuedemo
 
 > A Vue.js project
